@@ -4,15 +4,13 @@
 
 ### AI Engineer • Full-Stack Developer • Computer Science Student
 
-Building AI-powered applications, scalable web platforms, and IoT solutions that solve real-world problems.
+Software Engineer | AI & Full-Stack Developer | Python • Java • React | Building real-world projects | Open Source Enthusiast
 
 <p>
 <a href="https://github.com/shohebzain"><img src="https://img.shields.io/badge/GitHub-shohebzain-181717?style=for-the-badge&logo=github"></a>
 <a href="mailto:shohebzain745@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/mohammad-shoheb-2a0494297/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"></a>
 </p>
-
-![](https://komarev.com/ghpvc/?username=shohebzain\&style=for-the-badge)
 
 </div>
 
